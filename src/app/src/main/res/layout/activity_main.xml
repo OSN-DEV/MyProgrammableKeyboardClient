@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/key_type"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/selector_height"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/key_type1"
+            style="@style/KeyTypeStyle" />
+
+        <RadioButton
+            android:id="@+id/key_type2"
+            style="@style/KeyTypeStyle" />
+
+        <RadioButton
+            android:id="@+id/key_type3"
+            style="@style/KeyTypeStyle" />
+
+        <RadioButton
+            android:id="@+id/key_type4"
+            style="@style/KeyTypeStyle" />
+
+        <RadioButton
+            android:id="@+id/key_type5"
+            style="@style/KeyTypeStyle" />
+
+    </RadioGroup>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/key1_1"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_2"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_3"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_4"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_5"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_6"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_7"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_8"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key1_9"
+            style="@style/KeyStyle" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <Button
+            android:id="@+id/key2_1"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_2"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_3"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_4"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_5"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_6"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_7"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_8"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key2_9"
+            style="@style/KeyStyle" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <Button
+            android:id="@+id/key3_1"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_2"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_3"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_4"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_5"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_6"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_7"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_8"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key3_9"
+            style="@style/KeyStyle" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+
+        <Button
+            android:id="@+id/key4_1"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_2"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_3"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_4"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_5"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_6"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_7"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_8"
+            style="@style/KeyStyle" />
+
+        <Button
+            android:id="@+id/key4_9"
+            style="@style/KeyStyle" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

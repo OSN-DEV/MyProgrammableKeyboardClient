@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="font_size">16dp</dimen>
+    <dimen name="selector_height">100dp</dimen>
+</resources>
